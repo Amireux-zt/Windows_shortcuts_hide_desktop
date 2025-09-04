@@ -1,0 +1,2 @@
+# Windows_shortcuts_hide_desktop
+这是一个基于AutoHotkey的桌面图标快速隐藏/显示工具，通过快捷键组合可以瞬间切换桌面图标的可见状态，让您的桌面在需要时保持整洁。
